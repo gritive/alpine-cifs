@@ -1,0 +1,10 @@
+.git
+.github
+.gitignore
+README.md
+.DS_Store
+*.swp
+*.swo
+*~
+.idea
+.vscode
